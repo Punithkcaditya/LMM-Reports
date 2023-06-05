@@ -1,0 +1,13 @@
+Array
+(
+    [Auth-Token] => FHrslJL63i0ZGbQm
+    [Content-Type] => application/json
+    [User-Agent] => PostmanRuntime/7.30.0
+    [Accept] => */*
+    [Postman-Token] => ec8a9f0a-ace7-4276-8785-cbf0e31ec350
+    [Host] => localhost
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+    [Content-Length] => 149
+    [Cookie] => ci_session=e21g7mgh9khglvklpfsmts3o0sk8bhli
+)
